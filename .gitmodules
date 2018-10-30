@@ -1,0 +1,3 @@
+[submodule "eureka-client"]
+	path = eureka-client
+	url = https://github.com/gurkancakir/eureka-client.git
